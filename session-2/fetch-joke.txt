@@ -1,1 +1,1 @@
-https://codesandbox.io/p/sandbox/apper-frontend-demo-fetch-joke-rwl75w?fbclid=IwY2xjawEVJlNleHRuA2FlbQIxMAABHXoUfsF5SvklwqfboU1D8mj5JfEfZWEbihPWRekrUZXJiyOShx0-XB3qmw_aem_lK-dyOFvpCAilw_l1zmelw
+https://codesandbox.io/p/sandbox/apper-frontend-demo-fetch-joke-rwl75w?file=%2Fsrc%2FApp.js
